@@ -1091,7 +1091,7 @@ by them shall be placed in the margin, or in a concurrent column.
                          their former systems of government. The
                          history of the present king of Great Britain
   [repeated]             is a history of [_unremitting_] injuries
-  [all having]           injuries and usurpations, [_among_ _which
+  [all having]           injuries and usurpations, [_among_ which
                          appears no solitary fact to contradict
                          the uniform tenor of the rest, but all
                          have_] in direct object the establishment of
@@ -1126,7 +1126,7 @@ by them shall be placed in the margin, or in a concurrent column.
                          measures.
 
                          He has dissolved representative houses
-                         repeatedly [_and continually_]for
+                         repeatedly [_and continually_] for
                          opposing with manly firmness his
                          invasions on the rights of the people.
 
@@ -1247,10 +1247,10 @@ by them shall be placed in the margin, or in a concurrent column.
                          them into slavery in another hemisphere,
                          or to incur miserable death in their
                          transportation thither. This piratical
-                         warfare, the opprobium of_ INFIDEL
-                         _powers, is the warfare of the_ CHRISTIAN
-                         _king of Great Britain. Determined to
-                         keep open a market where_ MEN _should
+                         warfare, the opprobium of INFIDEL
+                         powers, is the warfare of the CHRISTIAN
+                         king of Great Britain. Determined to
+                         keep open a market where MEN should
                          be bought and sold, he has prostituted
                          his negative for suppressing every
                          legislative attempt to prohibit or to
@@ -1262,10 +1262,10 @@ by them shall be placed in the margin, or in a concurrent column.
                          liberty of which he has deprived them,
                          by murdering the people on whom he also
                          obtruded them: thus paying off former
-                         crimes committed against the_ LIBERTIES
-                         _of one people, with crimes which he
-                         urges them to commit against the_ LIVES
-                         _of another_.]
+                         crimes committed against the LIBERTIES
+                         of one people, with crimes which he
+                         urges them to commit against the LIVES
+                         of another_.]
 
                          In every stage of these oppressions we
                          have petitioned for redress in the most
@@ -1274,8 +1274,8 @@ by them shall be placed in the margin, or in a concurrent column.
 
                          A prince whose character is thus marked
                          by every act which may define a tyrant
-                         is unfit to be the ruler of a [ ] people
-                         [_who mean to be free_. _Future ages
+  [free]                 is unfit to be the ruler of a [ ] people
+                         [_who mean to be free. Future ages
                          will scarcely believe that the hardiness
                          of one man adventured, within the short
                          compass of twelve years only, to lay a
@@ -2196,7 +2196,7 @@ be qualified to understand their rights, to maintain them, and to
 exercise with intelligence their parts in self-government; and all this
 would be effected, without the violation of a single natural right of
 any one individual citizen. To these, too, might be added, as a further
-security, the introduction of the trial by jury; into the Chancery
+security, the introduction of the trial by jury into the Chancery
 courts, which have already ingulfed, and continue to ingulf, so great
 a proportion of the jurisdiction over our property.
 
@@ -3013,7 +3013,7 @@ Marquis de Verac, Ambassadeur de France à la Haye, du 1er Mars, 1786.
 chose, et vous inviterez, de sa part, les patriotes de lui communiquer
 leurs vues, leurs plans, et leurs envieux. Vous les assurerez, que le
 roi prend un interet veritable à leurs personnes comme à leur cause,
-it qu'ils peuvent compter sur sa protection Ils doivent y compter
+et qu'ils peuvent compter sur sa protection. Ils doivent y compter
 d'autant plus, Monsieur, que nous ne dissimulons pas, que si Monsieur
 le Stadhoulder reprend son ancienne influence, le systeme Anglois ne
 tardera pas de prevaloir, et que notre alliance deviendroit un être
@@ -6836,7 +6836,7 @@ FOOTNOTES:
      [49] Bracton, Fleta, &c.
 
      [50] 22. 23. Car. 2. c. l. Maiming was felony at the Common
-     law Britton, c. 25. "Mahemium autem dici poteri, aubi
+     law. Britton, c. 25. "Mahemium autem dici poteri, aubi
      aliquis in aliqua parte sui corparis laesionem acceperit,
      per quam affectus sit inutilis ad pugnandum: ut si manus
      amputetur, vel pes, oculus privetur, vel scerda de osse
@@ -12624,7 +12624,7 @@ FOOTNOTES:
      of his men. The rest he left at the Spanish Ozack, above the
      Natches. I shall immediately send him some provisions, as I
      learn he is in great want. I doubt, he will not be able to
-     get, his goods up the river except in Spanish bottoms. One
+     get his goods up the river except in Spanish bottoms. One
      regiment would be able to clear the Mississippi, and do great
      damage to the British interests in Florida, and, by properly
      conducting themselves, might perhaps gain the affection
@@ -12958,14 +12958,14 @@ FOOTNOTES:
 
                                                               A. L.
 
-     [95] Probably addressed to General Gates.
+     [95] [Probably addressed to General Gates.]
 
-     [96] After the battle of Camden--August 16th, 1780--Congress
+     [96] [After the battle of Camden--August 16th, 1780--Congress
      removed General Gates from the command of the Southern army,
      and placed General Green at its head. In December, 1780, he
-     assumed the command.
+     assumed the command.]
 
-     [97] One of the Convention prisoners, in Albemarle.
+     [97] [One of the Convention prisoners, in Albemarle.]
 
      [98] [This letter has no address, but it was probably to
      General Muhlenburg.]
@@ -13086,7 +13086,7 @@ FOOTNOTES:
                                                        _Secretary_.
 
      [109] [The following resolution was passed by Congress
-     relative to Mr. Jefferson's mission to Europe.--ED.
+     relative to Mr. Jefferson's mission to Europe.--ED.]
      
      BY THE UNITED STATES IN CONGRESS ASSEMBLED:
 
@@ -16035,9 +16035,10 @@ HEADS OF INQUIRY FOR MR. BARCLAY, AS TO MOROCCO.
 duties are levied by them on exports and imports? Do all nations pay
 the same, or what nations are favored, and how far? Are they their
 own carriers, or who carries for them? Do they trade themselves to
-other countries, or are they merely passive? 2. Ports. What are their
-principal ports? What depth of water in them? What works of defence
-protect these ports?
+other countries, or are they merely passive? 
+
+2. Ports. What are their principal ports? What depth of water in them? 
+What works of defence protect these ports?
 
 3. Naval force. How many armed vessels have they? Of what kind and
 force? What is the constitution of their naval force? What resources
@@ -16073,7 +16074,7 @@ by the variety of matters which happened to be presented to my mind,
 at the same time, had utterly escaped my recollection. I pray you to
 be assured, that nothing but this slip of memory would have prevented
 my immediate answer, and no other circumstance would have prevented
-its making such an impression on my mind, as that it could' not have
+its making such an impression on my mind, as that it could not have
 escaped. I hope you will, therefore, obliterate the imputation of
 want of respect, which, under actual appearances, must have arisen in
 your mind, but which would refer to an untrue cause the occasion of
@@ -16930,15 +16931,15 @@ Herschel has pushed his discoveries of double stars, now, to upwards
 of nine hundred, being twice the number of those communicated in the
 Philosophical Transactions. You have probably seen, that a Mr. Pigott
 had discovered periodical variations of light in the star Algol. He has
-observed the same in the [Greek: ê] of Antinous, and makes the period
-of variation seven days, four hours, and thirty minutes, the duration
-of the increase sixty-three hours, and of the decrease thirty-six
-hours. What are we to conclude from this? That there are suns which
-have their orbits of revolution too? But this would suppose a wonderful
-harmony in their planets, and present a new scene, where the attracting
-powers should be without, and not within the orbit. The motion of
-our sun would be a miniature of this. But this must be left to you
-astronomers.
+observed the same in the η of Antinous, and makes the period of
+variation seven days, four hours, and thirty minutes, the duration of
+the increase sixty-three hours, and of the decrease thirty-six hours.
+What are we to conclude from this? That there are suns which have
+their orbits of revolution too? But this would suppose a wonderful
+harmony in their planets, and present a new scene, where the
+attracting powers should be without, and not within the orbit. The
+motion of our sun would be a miniature of this. But this must be left
+to you astronomers.
 
 I went some time ago to see a machine which offers something new.
 A man had applied to a light boat a very large screw, the thread of
@@ -22802,7 +22803,7 @@ INDEX TO VOL. I.
     party, 103. Friendly relations between France and U. S., 456.
     Relations between France and England, 381. England and France
     compared, 549. Mr. Jefferson's views of French people, 187,
-    395, 549. Commercial relations with U. S. 378, 386, 491, 499,
+    395, 549. Commercial relations with U. S., 378, 386, 491, 499,
     561, 567, 586, 589.
 
   FRANKLIN, BENJ.--His views on Articles of Confederation, 31.
